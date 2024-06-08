@@ -51170,6 +51170,12 @@ span[data-flexitour="container"][x-placement="right-start"] div[data-role="arrow
     font-size: 4em
 }
 
+#page.drawers {
+    margin-top: 60px;
+    scrollbar-width: thin;
+    scrollbar-color: #6a737b #f8f9fa
+}
+
 #page.drawers::-webkit-scrollbar {
     width: 12px
 }
@@ -52090,6 +52096,10 @@ div.editor_atto_toolbar button .icon {
 .dir-rtl .navbar.fixed-top .usermenu .dropdown-menu .carousel .carousel-inner .carousel-item-prev,
 .dir-rtl .navbar.fixed-top .usermenu .dropdown-menu .carousel .carousel-inner .carousel-item-left.active {
     transform: translateX(100%)
+}
+
+#page {
+    margin-top: 60px
 }
 
 .pagelayout-embedded #page {

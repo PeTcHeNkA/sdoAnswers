@@ -46129,10 +46129,6 @@ body.path-question-type .form-group .col-form-label.sr-only:not(legend):not([for
     vertical-align: bottom
 }
 
-.que .content {
-    margin: 0 0 0 8.5em
-}
-
 .que .formulation,
 .que .outcome,
 .que .comment {
